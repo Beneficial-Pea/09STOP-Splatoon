@@ -1,4 +1,3 @@
 # 09STOP Splatoon
 
-### [Script] P3 Blackhole SelfMark
-https://github.com/Beneficial-Pea/09STOP-Splatoon/raw/refs/heads/main/P3_Blackhole_SelfMark.cs
+개인용입니다 문의는 업로드한 디스코드로 부탁드려요
